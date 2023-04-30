@@ -1,5 +1,5 @@
 module.exports = {
-    base: '/gulimall-pro-learn-docs',
+    base: '/gulimall-pro-learn-docs/',
     themeConfig: {
       logo: '/assets/img/hero.png',
       //sidebar: 'auto',
