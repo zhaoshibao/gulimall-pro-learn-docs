@@ -1,0 +1,16 @@
+{
+  "name": "gulimall-pro-learn-docs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/zhaoshibao/gulimall-pro-learn-docs.git",
+  "author": "zuoji <501348474@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "deploy": "bash deploy.sh"
+  },
+  "devDependencies": {
+    "vuepress": "^1.9.9"
+  }
+}
